@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Links.md",
+                "file": "🤖 LLM Engineering/Useful Links.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Links.md",
+                "file": "🤖 LLM Engineering/Useful Links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,10 +189,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff92c53c1d853387",
+  "active": "fed1620d77813368",
   "lastOpenFiles": [
+    "👩‍💻 Engineering Leadership",
+    "🤖 LLM Engineering/example.ipynb.txt",
+    "🤖 LLM Engineering/New Text Document.txt",
     "📓 Daily/2025-02-03.md",
-    "Useful Links.md",
+    "🤖 LLM Engineering/Useful Links.md",
     "2025-W06.md",
     "📓 Daily",
     "Untitled.md",

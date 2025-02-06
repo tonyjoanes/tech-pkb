@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🤖 LLM Engineering/Useful Links.md",
+                "file": "👩‍💻 Engineering Leadership/⌚10 Time Management Strategies for Better Productivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Links"
+              "title": "⌚10 Time Management Strategies for Better Productivity"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🤖 LLM Engineering/Useful Links.md",
+                "file": "👩‍💻 Engineering Leadership/⌚10 Time Management Strategies for Better Productivity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Useful Links"
+              "title": "Outline of ⌚10 Time Management Strategies for Better Productivity"
             }
           },
           {
@@ -191,11 +191,16 @@
   },
   "active": "fed1620d77813368",
   "lastOpenFiles": [
+    "👩‍💻 Engineering Leadership/💲Technical Debt.md",
+    "👩‍💻 Engineering Leadership/🎯Team Expectations.md",
+    "👩‍💻 Engineering Leadership/🥊Dealing with and resolving conflicts.md",
+    "👩‍💻 Engineering Leadership/⌚10 Time Management Strategies for Better Productivity.md",
+    "🤖 LLM Engineering/Useful Links.md",
+    "👩‍💻 Engineering Leadership/🤔Engineering Manager Decision Framework.md",
     "👩‍💻 Engineering Leadership",
     "🤖 LLM Engineering/example.ipynb.txt",
     "🤖 LLM Engineering/New Text Document.txt",
     "📓 Daily/2025-02-03.md",
-    "🤖 LLM Engineering/Useful Links.md",
     "2025-W06.md",
     "📓 Daily",
     "Untitled.md",
